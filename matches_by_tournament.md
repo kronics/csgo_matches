@@ -1,9 +1,16 @@
 
-# Монгол багуудын тоглолтыг тэмцээнээр ангилсан нь
+Монгол багуудын тоглолтыг тэмцээнээр ангилсан нь
+================================================
 
 Монгол багуудын нэрийг тодоор тэмдэглэв.
 
-[TOC]
+Тэмцээнүүд
+==========
+
+<!--ts-->
+   * [Perfect World Arena Premier League Season 3](#Perfect-World-Arena-Premier-League-Season 3)
+       * [Challenger Division](#Challenger-Division)
+<!--te-->
 
 ### Perfect World Arena Premier League Season 3 `(11/25 ~ 1/15)`
 
